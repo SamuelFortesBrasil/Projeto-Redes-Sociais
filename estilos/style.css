@@ -36,3 +36,20 @@ iframe#tela{
     height: 471px;
     width: 269px;
 }
+section#bt-redes{
+    text-align: right;
+}
+
+section#bt-redes img{
+    width: 50px;
+    margin: 10px;
+    border-radius: 50px;
+    box-shadow: 2px 2px 5px rgba(31, 31, 31, 0.897);
+    box-sizing: border-box;
+}
+
+section#bt-redes img:hover{
+    width: 48px;
+    border: 2px solid white;
+    cursor: pointer;
+}
